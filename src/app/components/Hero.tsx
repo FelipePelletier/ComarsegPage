@@ -1,6 +1,6 @@
 import React from "react";
 
-const Inicio = () => {
+const Hero = () => {
   return (
     <div>
       <div>
@@ -14,4 +14,4 @@ const Inicio = () => {
   );
 };
 
-export default Inicio;
+export default Hero;
